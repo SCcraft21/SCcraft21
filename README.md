@@ -1,5 +1,5 @@
 <p style="color: blue; font-family: 'Arial', sans-serif; font-size: 20px;">
-<h1>💫 About Me:</h1><br>
+<h3>💫 About Me:</h3><br>
 Hi there! I'm <b>Shitij</b> (dont try to shorten my name please.....just dont)👋<br>
 
 * By day, I'm a BCA student, trying to teach computers how to see and think.<br>
